@@ -1,0 +1,19 @@
+{
+  "name": "simulador-8086",
+  "version": "1.0.0",
+  "description": "Simulador visual interactivo del procesador 8086 con operaciones aritméticas y visualización de la pila",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js",
+    "build": "echo 'No build needed for this project'"
+  },
+  "keywords": [
+    "8086",
+    "assembler",
+    "simulator",
+    "educational"
+  ],
+  "author": "",
+  "license": "ISC"
+}
